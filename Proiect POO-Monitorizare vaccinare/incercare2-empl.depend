@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1654599909 source:c:\users\adina\desktop\incercare2-empl\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"Persoana.h"
+	"Vaccin.h"
+	"Boala.h"
+	<windows.h>
+
+1654553529 c:\users\adina\desktop\incercare2-empl\include\persoana.h
+
+1654598117 source:c:\users\adina\desktop\incercare2-empl\src\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1654583625 c:\users\adina\desktop\incercare2-empl\include\vaccin.h
+	<iostream>
+
+1654598698 source:c:\users\adina\desktop\incercare2-empl\src\vaccin.cpp
+	"Vaccin.h"
+	<iostream>
+	<string.h>
+
+1654599715 source:c:\users\adina\desktop\incercare2-empl\src\boala.cpp
+	"Boala.h"
+	<iostream>
+	<string.h>
+
+1654600140 c:\users\adina\desktop\incercare2-empl\include\boala.h
+	<iostream>
+
+1654602361 source:c:\users\adina\desktop\proiect poo-monitorizare vaccinare\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	"Persoana.h"
+	"Vaccin.h"
+	"Boala.h"
+	<windows.h>
+
+1654553529 c:\users\adina\desktop\proiect poo-monitorizare vaccinare\include\persoana.h
+
+1654583625 c:\users\adina\desktop\proiect poo-monitorizare vaccinare\include\vaccin.h
+	<iostream>
+
+1654600140 c:\users\adina\desktop\proiect poo-monitorizare vaccinare\include\boala.h
+	<iostream>
+
+1654599715 source:c:\users\adina\desktop\proiect poo-monitorizare vaccinare\src\boala.cpp
+	"Boala.h"
+	<iostream>
+	<string.h>
+
+1654598117 source:c:\users\adina\desktop\proiect poo-monitorizare vaccinare\src\persoana.cpp
+	"Persoana.h"
+	<iostream>
+
+1654598698 source:c:\users\adina\desktop\proiect poo-monitorizare vaccinare\src\vaccin.cpp
+	"Vaccin.h"
+	<iostream>
+	<string.h>
+
